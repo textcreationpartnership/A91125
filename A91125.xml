@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The protestation of divers well-affected Scots concerning their King, and the Lord Generall Cromwel; with a narrative of their further proceedings; and the manner of Lieut. Gen. Massey encamping his forces. Also, the declaration of the Presbyterian party in Scotland; and the names of those who are come in to the protection of the Parliament of the Common-wealth of England. Likewise, the Lord General Cromwels letter to the Parliament; and his further victorious proceedings against the Scots; with a list of the islands, castles, forts, ordnance, arms, and ammunition taken. / Extracted out of the original papers, licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91125</idno><idno type="EEBO-CITATION">99865778</idno>
+  <idno type="VID">118029</idno>
+  <idno type="EEBO-PROQUEST">2240924264</idno>
+  
+            <idno type="STC">Wing P3863</idno>
+            <idno type="STC">Thomason E640_6</idno>
+            <idno type="STC">ESTC R206662</idno>
+            <idno type="PROQUEST">99865778</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865778e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118029)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The protestation of divers well-affected Scots concerning their King, and the Lord Generall Cromwel; with a narrative of their further proceedings; and the manner of Lieut. Gen. Massey encamping his forces. Also, the declaration of the Presbyterian party in Scotland; and the names of those who are come in to the protection of the Parliament of the Common-wealth of England. Likewise, the Lord General Cromwels letter to the Parliament; and his further victorious proceedings against the Scots; with a list of the islands, castles, forts, ordnance, arms, and ammunition taken. / Extracted out of the original papers, licensed according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert VVood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 12.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658.</term>
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="corporate_name">Scotland. --  Army --  History --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118029:1"/>
+            <p>THE PROTESTATION Of divers well-affected SCOTS <hi>CONCERNING</hi> Their King, and the Lord Generall <hi>CROMWEL;</hi> with a Narrative of their fur<g ref="char:EOLhyphen"/>ther proceedings; and the manner of Licut. Gen. <hi>Massey</hi> encamping his forces.</p>
+            <p>
+               <hi>ALSO,</hi> The Declaration of the Presbyterian Party in <hi>Scotland;</hi> and the names of those who are come in to the protection of the Parliament of the Common-wealth of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LIKEWISE,</hi> The Lord General Cromwels Letter to the Parliament; and his further victorious proceedings against the <hi>Scots;</hi> With a List of the Islands, Castles, Forts, Ordnance, Arms, and Ammunition taken.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Entracted out of the Original Papers, Licensed according to Order</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert VVood,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118029:2"/>
+            <pb n="1" facs="tcp:118029:2"/>
+            <head>The Scots new Protestation concer<g ref="char:EOLhyphen"/>ning their King, and the Lord Gen. Cromwel, and the coming in of M. Patrick Gilespie, Mr. Rutherford, Mr. Guthery, Mr. Dury (chaplain to the King) col. Hume, and divers others, to the protection of the Par<g ref="char:EOLhyphen"/>liament of England. With the seve<g ref="char:EOLhyphen"/>ral Queries and Proposals presented to them; and a Narrative of the daily proceedings of both armies.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ALL things here goes on very prospe<g ref="char:EOLhyphen"/>rously, and the Lord hath shined from Heaven upon our late Undertakings, gi<g ref="char:EOLhyphen"/>ving us an earnest of his future blessings; for God is speaking aloud to that Gene<g ref="char:EOLhyphen"/>ration of men, who have formerly stop'd their ears; but many thousands there are, that now begins to hearken to the voyce of the living God; and amongst
+<pb n="2" facs="tcp:118029:3"/>the rest, those pious and learned Divines, M. <hi>Gilespie,</hi> Mr. <hi>Rutherford,</hi> Mr. <hi>Guthery,</hi> and Mr. <hi>Dury,</hi> are come in to the protection of the parliament of <hi>England,</hi> and have taken a protestation both against the King and the generall Assembly, not to own, or be aiding or a<g ref="char:EOLhyphen"/>betting to their design. Three other Ministers are come in to us from <hi>Angns</hi> for protection, as not being able to endure the persecution of many in those parts. And one of them being had in examination be<g ref="char:EOLhyphen"/>fore the General Assembly, had these two questions proposed to him:</p>
+            <p n="1">1 <hi>Whether the Presbyterian Government as established in</hi> Scotland, <hi>be in all things conform to the Word of</hi> GOD.</p>
+            <p n="2">2 <hi>Whether</hi> Cromwel <hi>be Antichristian?</hi>
+            </p>
+            <p>To which he answer'd, That he was determin'd to be silent in each particular; for which he received excommunication.</p>
+            <p>The Scene of our proceedings lies now in <hi>Fife;</hi> and that we may make improvement of the mercies al<g ref="char:EOLhyphen"/>ready received, we have transported the greatest part of our Army on that side. Ten Regiments of Foot, and ten of Horse, with six Troops of Dragoons are there; and if the enemy will draw forth, they will be able to give them battle. However they will range about the country, and hinder supplies of pro<g ref="char:EOLhyphen"/>vision from coming to them. Yet it is probable, ha<g ref="char:EOLhyphen"/>ving a desperate game to play, they may attempt for <hi>England,</hi> chusing rather to hazard all there, then to linger into ruine in their own wasted countrey. But His Excellency the Lord Generall hath ordred Maj. Gen. <hi>Harrison</hi> to attend their motion, and according<g ref="char:EOLhyphen"/>ly hath sent for col. <hi>Rich</hi> (in all haste) to come to him
+<pb n="3" facs="tcp:118029:3"/>with all the forces he can possibly make. Upon the conjunction of those forces with these, they will be able to suppresse all the Levies which are now busi<g ref="char:EOLhyphen"/>ly raising in the West, and to hinder all provisions out of those parts from them.</p>
+            <p>We have taken the strong and impregnable castle of <hi>Innes-Garvey,</hi> with many other considerable places since our wafting over into <hi>Fife,</hi> a List whereof fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <list>
+               <head>
+                  <hi>A List of the Islands, Castles, Forts, Ordnance, Armes, and Ammunition, taken by the Lord General</hi> Cromwel <hi>from the</hi> Scots.</head>
+               <item>
+                  <hi>Burnt Island surrendred with</hi> 30 <hi>pieces of Ordnance.</hi>
+               </item>
+               <item>
+                  <hi>Innes-Garvy castle taken with</hi> 16 <hi>pieces of Ord<g ref="char:EOLhyphen"/>nance.</hi>
+               </item>
+               <item>
+                  <hi>Duglas castle taken with</hi> 14 <hi>pieces.</hi>
+               </item>
+               <item>
+                  <hi>Hume castle taken with</hi> 20 <hi>pieces of canon,</hi> 200 <hi>Mus<g ref="char:EOLhyphen"/>quets,</hi> 2 <hi>Morter pieces, one barrel of powder, and a<g ref="char:EOLhyphen"/>bout</hi> 70 <hi>small shot.</hi>
+               </item>
+               <item>
+                  <hi>Huntley house surrendred at the first summons, without the losse of one man on ei<g ref="char:EOLhyphen"/>ther side.</hi>
+               </item>
+               <item>
+                  <hi>Four Men of War taken in</hi> Burnt Island Road, <hi>with little losse, and about</hi> 40 <hi>pieces of Ordnance, with other good prizes.</hi>
+               </item>
+               <item>
+                  <hi>Divers ships taken by Com<g ref="char:EOLhyphen"/>missary General</hi> Whaley <hi>upon his march along the Sea side in</hi> Fife, <hi>and some of the Parliaments ships attending his motion on the coast.</hi>
+               </item>
+               <item>
+                  <hi>The subduing of the</hi> Scots <hi>forces in the said county; and their retreat to</hi> Ster<g ref="char:EOLhyphen"/>ling <hi>and</hi> Earn bridge.</item>
+            </list>
+            <p>It is affirmed, that about 7000 of the Well-affect<g ref="char:EOLhyphen"/>ed Presbyters, with the Marq. of <hi>Argyle,</hi> have decla<g ref="char:EOLhyphen"/>red against the proceedings of the General Assembly and likewise protested against them, for owning and abetting the titular Kings design.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:118029:4"/>
+                  <head>Another Letter from Scotland.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Lord Gen. Cromwel is gone in per<g ref="char:EOLhyphen"/>son to the Army in Fife, and hath also wafted over his own Regiment of horse and foot, Lieu. Gen. Fleetwoods, Col. Coopers, Col. Goffes, Col. Twisletons, and col. Ingolds<g ref="char:EOLhyphen"/>byes Regiment. His Excellency hath ordered that the Army be divided into two parts; the one party to march towards St. Johnstons, to divert the recruits and provisions of the ene<g ref="char:EOLhyphen"/>my; the other towards Sterling, to face the E<g ref="char:EOLhyphen"/>nemy, and to fight him. Massey hath taken possession of a bridg 4 miles on this side Ster<g ref="char:EOLhyphen"/>ling, which (as yet) he keeps; and the Scots Foot remain still in Sterling Park with the Train of Artillery. The Officers of the Ar<g ref="char:EOLhyphen"/>my have lately entred into consultation about the businesse of Mr. Love, and after some time spent therein, resolved, That they would not intermeddle therein; but that it will be their rejoycing, that justice may run in an interrup<g ref="char:EOLhyphen"/>ted channel.</p>
+                  <pb n="5" facs="tcp:118029:4"/>
+                  <p>A Letter from the Lord Deputy of Ireland being contracted, speaks to this effect; from the Leaguer before Limbrick, That Col. To<g ref="char:EOLhyphen"/>thil hath been cashiered the army, for breach of quarter given to some of the enemy; that his Lordship desires no more men may be rai<g ref="char:EOLhyphen"/>sed for Ireland; That the castle upon the bridg hath been stormed and taken, and the better half of the bridg possest by us; so that they are lockt in on that side, and have broken down two Arches next the Town, that now there is small hope of working our selves by the way of the bridg into the Town; That after this, they had an attempt upon an Island encom<g ref="char:EOLhyphen"/>passed by a Line, with a great Fort in the mid<g ref="char:EOLhyphen"/>dle of it, which had they gained, they had been in a fair way to master the Town; but our whole party that was employed perished in the attempt: They had 11 Boats, and 2 Cots, besides the great Flote in the 5 boats that were lanched before: There went over Major Walker (his Lordships own Major who com<g ref="char:EOLhyphen"/>manded in chief) with capt. Graves, captain Whiting, his Lordships own Ensign, and about 90 souldiers and non-commission'd Officers, who were all drowned or killed, to the great
+<pb n="6" facs="tcp:118029:5"/>grief of the whole Army, who humble them<g ref="char:EOLhyphen"/>selves in the sence of Gods displeasure.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The further victorious proceedings of the Lord Gen. <hi>Cromwel</hi> in <hi>Scotland,</hi> manifested by his own Letter as followeth.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>THe greatest part of the Army is in</hi> Fife, <hi>waiting what way God will further lead us: It hath pleased God to give us in</hi> Burnt Island, <hi>which is indeed very conducing to the carrying on of our affairs. The town is well seated, pretty strong, but marvellous capable of further improve<g ref="char:EOLhyphen"/>ment in that respect, without great charge. The Harbour at a high spring is neer a fathom deeper then at</hi> Leith, <hi>and doth not lie commanded by any ground without the Town. We took three or four small men of War in it, and I believe</hi> 30 <hi>or</hi> 40 <hi>Guns. Commissary Gen.</hi> Whaley <hi>marched along the Sea-side in</hi> Fife, <hi>having some ships to go along the coast, and hath taken great store of great Artillery, and di<g ref="char:EOLhyphen"/>vers ships. The Enemies affaires are in some discomposure as we hear, surely the Lord will blow upon them.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your most humble servant, O. CROMWEL.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118029:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
